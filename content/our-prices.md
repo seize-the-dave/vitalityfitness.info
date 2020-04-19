@@ -29,19 +29,21 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>Most popular</li>
             </ul>
-              <a class="btn btn-primary" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799645" role="button"> Buy Now</a>
+          </div>  
+         <a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799645" role="button"> Buy Now</a>
           </div>
         </div>
-        <div class="card mb-4 box-shadow">
+         <div class="card mb-4 box-shadow">
           <div class="card-header">
             <h4 class="my-0 font-weight-normal">2 People</h4>
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£36</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£18 per person</li>
+              <li>£15 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.phpowner=14767332&action=addCart&clear=1&id=799646" role= "button"> Buy Now</a>
+          </div>    
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799646" role= "button"> Buy Now</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -53,12 +55,12 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£15 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799648" role= "button"> Buy Now</a>
+          </div>    
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799648" role= "button"> Buy Now</a>
           </div>
         </div>
-      </div>
-    </div>
-
+</div>
+</div>
 <!--End of Spud's additions for LIVE online PT-->
 
 <!--## Personal Training
@@ -120,7 +122,7 @@ If you would like to block book personal training sessions then the discounted p
             <ul class="list-unstyled mt-3 mb-4">
               <li>£24 per session</li>
             </ul>
-           <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy Now</a>
+           <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy Now</a>
           </div>
         </div>
         <div class="card mb-3 box-shadow">
@@ -132,7 +134,7 @@ If you would like to block book personal training sessions then the discounted p
             <ul class="list-unstyled mt-3 mb-4">
               <li>£23 per session</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
           </div>
         </div>
 <!--End Spud additions for block bookings for live online PT-->
