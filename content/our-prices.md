@@ -29,7 +29,7 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>Most popular</li>
             </ul>
-              <a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799645" role="button"> Buy my LIVE Online Personal Training session(&pound;25.00)</a>
+              <a class="btn btn-primary" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799645" role="button"> Buy LIVE Online Personal Training session(&pound;25.00)</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -41,7 +41,7 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£18 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799646" role= "button"> Buy LIVE Online Personal Training session for 2 people(&pound;36.00)</a>
+            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.phpowner=14767332&action=addCart&clear=1&id=799646" role= "button"> Buy LIVE Online Personal Training session for 2 people(&pound;36.00)</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
