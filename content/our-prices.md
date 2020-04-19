@@ -58,9 +58,10 @@ The following prices are for tailored programmes:
         </div>
       </div>
     </div>
-## End of Spud's additions for Video PT
 
-## Personal Training
+<!--End of Spud's additions for LIVE online PT-->
+
+<!--## Personal Training
 
 <div class="container">
   <div class="card-deck mb-3 text-center">
@@ -101,7 +102,7 @@ The following prices are for tailored programmes:
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
 
 ## Block Booking Prices
 
