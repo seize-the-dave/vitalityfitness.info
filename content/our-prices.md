@@ -15,7 +15,7 @@ The following prices are for tailored programmes:
 - Fitness Testing (Basic) £40.00
 - Fitness Testing (Full) £50.00
 
-## Added by Spud 19/04/2020 Including Video PT prices
+{{/*Added by Spud 19/04/2020 Including Video PT prices*/}}
 
 ## Online LIVE Personal Training
 
