@@ -5,7 +5,7 @@ draft: false
 ---
 
 <div class="jumbotron">
-    <h1 class="display-3">Sports Massage</h1>
+    <h1 class="display-3">Online Personal Training</h1>
     <p class="lead">We provide professional massage therapy for the treatment of muscles, tendons and ligaments.<p>
     <p class="lead">Sports massage can help with relieving muscle soreness and pain, injury rehabilitation and improving flexibility.</p>
     <!-- <p class="lead">Our treatments go full circle as once treatment is complete we provide home work to ensure good muscle balance and improved flexibility.<p> -->
