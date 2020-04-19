@@ -6,7 +6,7 @@ draft: false
 
 <div class="jumbotron">
     <h1 class="display-3">Personal Training</h1>
-    <p class="lead">Due to the current COVID-19 lockdown, we are operating remotely only (via Zoom or WhatsApp</p>
+    <p class="lead">Due to the current COVID-19 lockdown, we are operating remotely only (via Zoom or WhatsApp)</p>
     <p class="lead">All personal training sessions will now take place in the comfort of your own home, with remote assistance and expertise provided over video link.</p>
     <p><a class="btn btn-info btn-lg" href="/covid-19/" role="button">Learn More</a></p>
 </div>
