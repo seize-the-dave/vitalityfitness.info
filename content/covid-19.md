@@ -17,7 +17,7 @@ Many people are looking for ideas and motivation at this difficult time and I th
 
 If you are interested in some personal training over video then please get in contact. As my other side of the business, sports massage, has come to a halt I am flexible in the times I am available.
 
-It’s important we are both totally comfortable with working over a video, so to help with this I can provide a free consultation over video before we begin. This will help us both to feel confident about working with each other, allow me to find out your main goals and help to oversome any anxieties with regards to the software or anything! 
+It’s important we are both totally comfortable with working over a video, so to help with this I can provide a free consultation over video before we begin. This will help us both to feel confident about working with each other, allow me to find out your main goals and help to overcome any anxieties with regards to the software we are using, or indeed anything at all! 
 
 Family exercise video sessions also available.
 
