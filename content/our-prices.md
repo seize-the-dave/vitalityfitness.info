@@ -10,12 +10,11 @@ menu:
 The following prices are for tailored programmes:
 
 - Tailored Fitness Programmes (12 weeks) £35.00
-- Nutritional Advice £20.00
 - Tailored Nutritional Programmes £45.00
 - Fitness Testing (Basic) £40.00
 - Fitness Testing (Full) £50.00
 
-{{/*Added by Spud 19/04/2020 Including Video PT prices*/}}
+<!--Added by Spud 19/04/2020 Including Video PT prices-->
 
 ## Online LIVE Personal Training
 
