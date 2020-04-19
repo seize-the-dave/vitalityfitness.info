@@ -29,7 +29,7 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>Most popular</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+              <a class="btn btn-primary" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799645" role="button"> Buy my LIVE Online Personal Training session(&pound;25.00)</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -41,7 +41,7 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£18 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799646" role= "button"> Buy LIVE Online Personal Training session for 2 people(&pound;36.00)</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -53,7 +53,7 @@ The following prices are for tailored programmes:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£15 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799648" role= "button"> Buy LIVE Online Personal Training sessions for 3 people(&pound;45.00)</a>
           </div>
         </div>
       </div>
@@ -120,7 +120,7 @@ If you would like to block book personal training sessions then the discounted p
             <ul class="list-unstyled mt-3 mb-4">
               <li>£24 per session</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+           <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy 4 LIVE Online Personal Training sessions(&pound;96.00)</a>
           </div>
         </div>
         <div class="card mb-3 box-shadow">
@@ -132,7 +132,7 @@ If you would like to block book personal training sessions then the discounted p
             <ul class="list-unstyled mt-3 mb-4">
               <li>£23 per session</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy 8 LIVE Online Personal Training sessions(&pound;184.00)</a>
           </div>
         </div>
 <!--End Spud additions for block bookings for live online PT-->
