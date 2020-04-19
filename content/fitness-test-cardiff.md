@@ -2,6 +2,9 @@
 title: "Fitness Test"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        parent: "Services"
 ---
 
 ## How fit are you? Find out by taking a fitness test here in Cardiff

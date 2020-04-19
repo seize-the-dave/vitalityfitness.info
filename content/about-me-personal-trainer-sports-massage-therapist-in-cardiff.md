@@ -2,6 +2,10 @@
 title: "About Me"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        name: "About"
+        weight: 5
 ---
 
 Personal trainer Sports massage therapist in Cardiff

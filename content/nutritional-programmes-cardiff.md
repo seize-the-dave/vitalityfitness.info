@@ -2,6 +2,9 @@
 title: "Nutritional Programmes"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        parent: "Services"
 ---
 
 Want to feel better, more energised, happier? Then phone me for an informal chat on a tailored nutritional programme here in Cardiff, designed just for you. A nutritional programme must be right for you and you alone.

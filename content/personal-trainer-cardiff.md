@@ -2,9 +2,13 @@
 title: "Personal Training"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        name: "About PT"
+        parent: "Personal Training"
 ---
 
-Personal Training is exciting, fun, rewarding but it is also requires some dedication and hard work from you! I can motivate you and help you to achieve your goals. You will need to be ready for the change and prepared for the journey ahead.2015-06-09 10.00.50
+Personal Training is exciting, fun, rewarding but it is also requires some dedication and hard work from you! I can motivate you and help you to achieve your goals. You will need to be ready for the change and prepared for the journey ahead.
 
 Below are some typical goals I’ve, your local personal trainer in Cardiff, have helped with:
 
@@ -26,7 +30,7 @@ I have an on going number of clients who are achieving their goals through fun, 
 
 You can train with me in the comfort of your own home, outside, in the gym or private studio. I have all the equipment to help you achieve your goals.
 
-Have a think about what you want to achieve from seeing a personal trainer Cardiff and then fill in my contact form so I can give you a ring back to have a chat with you about what it involves and how I can help you. If you prefer, simply call me on 029 20140 0069 or 079 0452 5169. Whatever area of fitness or well-being you’d like to address now is the best time to do something about it.
+Have a think about what you want to achieve from seeing a personal trainer Cardiff and then fill in my contact form so I can give you a ring back to have a chat with you about what it involves and how I can help you. If you prefer, simply call me on <a href="tel:+442920140069">029 2014 0069</a> or <a href="tel:+447904525169">079 0452 5169</a>. Whatever area of fitness or well-being you’d like to address now is the best time to do something about it.
 
 I am a personal trainer in Cardiff and surrounding areas. I can travel further but will charge fuel costs by the mile.
 

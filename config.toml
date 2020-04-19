@@ -11,12 +11,6 @@ unsafe= true
     name = "Personal Training"
     url = "/personal-trainer-cardiff/"
     weight = 1
-    identifier = "personal-training"
-
-  [[menu.main]]
-    name = "Video Personal Training"
-    url = "/covid-19/"
-    parent = "personal-training"
 
   [[menu.main]]
     name = "Sports Massage"
@@ -27,42 +21,3 @@ unsafe= true
     name = "Services"
     url = "/services/"
     weight = 3
-    identifier = "services"
-
-  [[menu.main]]
-    name = "Video Personal Training"
-    url = "/online-personal-training/"
-    # weight = 31
-    parent = "services"
-
-  [[menu.main]]
-    name = "Nutritional Programmes"
-    url = "/nutritional-programmes-cardiff/"
-    # weight = 32
-    parent = "services"
-
-  [[menu.main]]
-    name = "Fitness Tests"
-    url = "/fitness-test-cardiff/"
-    # weight = 33
-    parent = "services"
-
-  [[menu.main]]
-    name = "About"
-    url = "/about-me-personal-trainer-sports-massage-therapist-in-cardiff/"
-    weight = 4
-
-  [[menu.main]]
-    name = "Prices"
-    url = "/our-prices/"
-    weight = 5
-
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact-me/"
-    weight = 6
-
-  [[menu.main]]
-    name = "Testimonials"
-    url = "/testimonials/"
-    weight = 7

@@ -2,6 +2,9 @@
 title: "Testimonials"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        weight: 8
 ---
 
 > I can’t thank Donna enough – after 20 sessions I’m fitter than I have been for years and one and a half stones lighter! Donna made the sessions fun and is excellent at motivating you to work that little bit harder. I even began looking forward to them! Don’t think it’s too late to get fit – at almost 70 I feel better than I did at 50! Thank you Donna!

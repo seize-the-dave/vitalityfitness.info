@@ -2,6 +2,9 @@
 title: "Prices"
 date: 2020-04-18T17:32:38+01:00
 draft: false
+menu:
+    main:
+        weight: 6
 ---
 
 The following prices are for tailored programmes:
