@@ -107,7 +107,7 @@ The following prices are for tailored programmes:
 <!--Added by Spud block booking for LIVE online PT-->
 ## Block Booking Prices
 
-If you would like to block book personal training sessions then the discounted prices, which are based on a minimum of 2 hours of personal training a week which are outside or at your home, are below:
+If you would like to block book personal training sessions then the discounted prices are below:
 
 <div class="container">
   <div class="card-deck mb-4 text-center">
