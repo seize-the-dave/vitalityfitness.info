@@ -16,7 +16,7 @@ draft: false
     <h4>Flexible</h4>
     <p>Sessions are available during the day and in the evening, 6 days a week.</p>
     <h4>Professional</h4>
-    <p>Free consultions are provided to fully understand your individual needs.</p>
+    <p>Free consultations are provided to fully understand your individual needs.</p>
     </div>
     <div class="col-lg-6">
     <h4>Experienced</h4>
