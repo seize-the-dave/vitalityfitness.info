@@ -11,9 +11,20 @@ The following prices are for tailored programmes:
 
 - Tailored Fitness Programmes (12 weeks) £40.00
 <!Added by Spud to buy fitness programme online-->
-<a class="btn btn-lg btn-block btn-info"
+ <div class="card mb-4 box-shadow">
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">2 People</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">£40</h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>Individualised Programme</li>
+                </ul>
+              <a class="btn btn-lg btn-block btn-info"
                 href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133"
                 role="button"> Buy Now</a>
+            </div>
+   
 
 - Tailored Nutritional Programmes £55.00
 - Fitness Testing (Basic) £40.00
