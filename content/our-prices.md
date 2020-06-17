@@ -34,7 +34,7 @@ menu:
                   <li>Tailored Nutritional Programme</li>
               </ul>
               <a class="btn btn-lg btn-block btn-info"
-                href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799646"
+                href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834153"
                 role="button"> Buy Now</a>
           </div>
         </div>
