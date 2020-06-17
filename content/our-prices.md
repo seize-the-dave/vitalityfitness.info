@@ -7,15 +7,13 @@ menu:
         weight: 6
 ---
 
-The following prices are for tailored programmes:
-
 <!Added by Spud to buy fitness programme online-->
 ## 12 Week Fitness Programme
 <div class="container">
     <div class="card-deck mb-3 text-center">
         <div class="card mb-4 box-shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Solo</h4>
+                <h4 class="my-0 font-weight-normal">12 Week Bespoke Fitness Programme</h4>
             </div>
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">£25</h1>
