@@ -18,7 +18,7 @@ menu:
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">£40</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>A realistic & challenging individualised fitness programme just for you</li>
+                    <li>A realistic & individualised programme just for you</li>
                 </ul>
                 <a class="btn btn-lg btn-block btn-info"
                 href=https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133> Buy Now</a>
@@ -41,7 +41,7 @@ menu:
     </div>
   </div>
 <! End Donna 17/06/20-->   
-<!- Fitness Testing (Basic) £40.00
+<!-- Fitness Testing (Basic) £40.00
 - Fitness Testing (Full) £55.000-->
 
 <!--Added by Spud 19/04/2020 Including Video PT prices-->
