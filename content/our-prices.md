@@ -8,7 +8,7 @@ menu:
 ---
 
 <!Added by Spud to buy fitness programme online-->
-## 12 Week Fitness Programme
+## Fitness and Nutritional Programmes
 <div class="container">
     <div class="card-deck mb-3 text-center">
         <div class="card mb-4 box-shadow">
@@ -24,27 +24,25 @@ menu:
                 href=https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133> Buy Now</a>
             </div>
         </div>
-          <div class="card mb-4 box-shadow">
-            <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Nutritional Programme</h4>
-            </div>
-            <div class="card-body">
-                <h1 class="card-title pricing-card-title">/355</h1>
-                <ul class="list-unstyled mt-3 mb-4">
-                    <li>Tailored Nutritional Programme</li>
-                </ul>
-                <a class="btn btn-lg btn-block btn-info"
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Nutritional Programme</h4>
+          </div>
+          <div class="card-body">
+              <h1 class="card-title pricing-card-title">/355</h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                  <li>Tailored Nutritional Programme</li>
+              </ul>
+              <a class="btn btn-lg btn-block btn-info"
                 href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799646"
                 role="button"> Buy Now</a>
-            </div>
+          </div>
         </div>
-   </div>
+    </div>
   </div>
    
-
-- Tailored Nutritional Programmes £55.00
-- Fitness Testing (Basic) £40.00
-- Fitness Testing (Full) £55.00
+<!- Fitness Testing (Basic) £40.00
+- Fitness Testing (Full) £55.00-->
 
 <!--Added by Spud 19/04/2020 Including Video PT prices-->
 
