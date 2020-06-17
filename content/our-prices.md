@@ -10,23 +10,22 @@ menu:
 The following prices are for tailored programmes:
 
 <!Added by Spud to buy fitness programme online-->
-
+## 12 Week Fitness Programme
 <div class="container">
     <div class="card-deck mb-3 text-center">
- <div class="card mb-4 box-shadow">
+        <div class="card mb-4 box-shadow">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal">Tailored Fitness Programmes (12 weeks) £40.00</h4>
+                <h4 class="my-0 font-weight-normal">Solo</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£40</h1>
+                <h1 class="card-title pricing-card-title">£25</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Individualised programme, juzt for you</li>
+                    <li>Most popular</li>
                 </ul>
-              <a class="btn btn-lg btn-block btn-info"
-                href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133"
-                role="button"> Buy Now</a>
+                <a class="btn btn-lg btn-block btn-info"
+                https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133> Buy Now</a>
             </div>
-    </div>
+        </div>
    </div>
   </div>
    
