@@ -7,7 +7,7 @@ menu:
         weight: 6
 ---
 
-<!Added by Spud to buy fitness programme online-->
+<!Added by Spud to buy fitness programme online 17/06/2020-->
 ## Fitness and Nutritional Programmes
 <div class="container">
     <div class="card-deck mb-3 text-center">
@@ -40,9 +40,9 @@ menu:
         </div>
     </div>
   </div>
-   
+<! End Donna 17/06/20-->   
 <!- Fitness Testing (Basic) £40.00
-- Fitness Testing (Full) £55.00-->
+- Fitness Testing (Full) £55.000-->
 
 <!--Added by Spud 19/04/2020 Including Video PT prices-->
 
