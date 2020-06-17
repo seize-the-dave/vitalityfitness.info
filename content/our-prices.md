@@ -29,7 +29,7 @@ menu:
               <h4 class="my-0 font-weight-normal">Nutritional Programme</h4>
           </div>
           <div class="card-body">
-              <h1 class="card-title pricing-card-title">/355</h1>
+              <h1 class="card-title pricing-card-title">£55</h1>
               <ul class="list-unstyled mt-3 mb-4">
                   <li>Tailored Nutritional Programme</li>
               </ul>
