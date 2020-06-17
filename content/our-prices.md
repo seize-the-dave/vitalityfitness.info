@@ -16,9 +16,9 @@ menu:
                 <h4 class="my-0 font-weight-normal">12 Week Bespoke Fitness Programme</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£25</h1>
+                <h1 class="card-title pricing-card-title">£40</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>Most popular</li>
+                    <li>A realistic & challenging individualised fitness programme just for you</li>
                 </ul>
                 <a class="btn btn-lg btn-block btn-info"
                 https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=834133> Buy Now</a>
