@@ -99,9 +99,9 @@ menu:
 <!--## Personal Training
 
 <div class="container">
-  <div class="card-deck mb-3 text-center">
+    <div class="card-deck mb-3 text-center">
         <div class="card mb-4 box-shadow">
-          <div class="card-header">
+            <div class="card-header">
             <h4 class="my-0 font-weight-normal">Solo</h4>
           </div>
           <div class="card-body">
@@ -145,35 +145,36 @@ menu:
 If you would like to block book personal training sessions then the discounted prices are below:
 
 <div class="container">
-  <div class="card-deck mb-4 text-center">
+    <div class="card-deck mb-4 text-center">
         <div class="card mb-3 box-shadow">
-          <div class="card-header">
-            <h4 class="my-0 font-weight-normal">4 Sessions</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">£96</h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>£24 per session</li>
-            </ul>
-           <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy Now</a>
-          </div>
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">4 Sessions</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">£96</h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>£24 per session</li>
+                </ul>
+                <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy Now</a>
+            </div>
         </div>
         <div class="card mb-3 box-shadow">
-          <div class="card-header">
-            <h4 class="my-0 font-weight-normal">8 Sessions</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">£184</h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>£23 per session</li>
-            </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
-          </div>
+            <div class="card-header">
+                <h4 class="my-0 font-weight-normal">8 Sessions</h4>
+            </div>
+            <div class="card-body">
+                <h1 class="card-title pricing-card-title">£184</h1>
+                <ul class="list-unstyled mt-3 mb-4">
+                    <li>£23 per session</li>
+                </ul>
+                <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
+            </div>
         </div>
+    </div>
+</div>
 <!--End Spud additions for block bookings for live online PT-->
       
 <!--Added by Spud block booking for LIVE online PT 1:2-->
-## Block Booking Prices
 
 If you would like to block book personal training sessions for 2 people:
 
