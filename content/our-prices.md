@@ -182,7 +182,7 @@ If you would like to block book personal training sessions for 2 people:
   <div class="card-deck mb-4 text-center">
         <div class="card mb-3 box-shadow">
           <div class="card-header">
-            <h4 class="my-0 font-weight-normal">4 Sessions</h4>
+            <h4 class="my-0 font-weight-normal">4 Sessions for two people</h4>
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£132</h1>
@@ -194,7 +194,7 @@ If you would like to block book personal training sessions for 2 people:
         </div>
         <div class="card mb-3 box-shadow">
           <div class="card-header">
-            <h4 class="my-0 font-weight-normal">8 Sessions</h4>
+            <h4 class="my-0 font-weight-normal">8 Sessions for two people</h4>
           </div>
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£248</h1>
