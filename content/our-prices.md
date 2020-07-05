@@ -187,7 +187,7 @@ If you would like to block book personal training sessions for 2 people:
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£132</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£33 per session</li>
+              <li>£16.50 each!</li>
             </ul>
            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=845385" role= "button"> Buy Now</a>
           </div>
@@ -197,9 +197,9 @@ If you would like to block book personal training sessions for 2 people:
             <h4 class="my-0 font-weight-normal">8 Sessions</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£256</h1>
+            <h1 class="card-title pricing-card-title">£248</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£32 per session</li>
+              <li>£15.50 each person!</li>
             </ul>
             <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=845387" role= "button"> Buy Now</a>
           </div>
