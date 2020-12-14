@@ -1,6 +1,6 @@
 ---
 title: "LIVE Online Personal Training"
-date: 2020-04-18T17:32:38+01:00
+date: 2020-12-14 T17:32:38+01:00
 draft: false
 
 menu:
@@ -11,11 +11,10 @@ menu:
 
 Hi all,
 
-While we are unable to meet for our PT sessions in person,  I am offering live online video sessions through either WhatsApp or Zoom. I have been running them for a couple of weeks with existing clients and so now I know that it works really well & I am reaching out for some new clients!
+Although, at the moment, we are able to meet outside for PT sessions some people are preferring to continue with their sessions via either WhatsApp or Zoom. I have been both surprised an pleased at how well the sessions are going over video. Although, it will never be the same as in person, we are able to work out to a high level, whilst maintaining some contact with each other and enjoying ourselves. I've found the sessions are really helping me through this pandemic as it's a regular meet, catch up and work out all at the same time! 
+Many people are looking for ideas and motivation during this pandemic and I think that a weekly session really does help physically, but also mentally. We are being forced to be less social so some contact via a video is a real pick me up and I can get your heart raised whilst sculpting your muscles, all at the same time!
 
-Many people are looking for ideas and motivation at this difficult time and I think that a weekly session really does help physically but also mentally. We are being forced to be less social so some contact via a video is a real pick me up and I can get your heart raised whilst sculpting your muscles, all at the same time!
-
-If you are interested in some personal training over video then please get in contact. As my other side of the business, sports massage, has come to a halt I am flexible in the times I am available.
+If you are interested in some personal training over video then please get in contact.
 
 It’s important we are both totally comfortable with working over a video, so to help with this I can provide a free consultation over video before we begin. This will help us both to feel confident about working with each other, allow me to find out your main goals and help to overcome any anxieties with regards to the software we are using, or indeed anything at all! 
 
