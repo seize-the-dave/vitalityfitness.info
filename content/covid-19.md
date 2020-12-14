@@ -11,8 +11,8 @@ menu:
 
 Hi all,
 
-Although, at the moment, we are able to meet outside for PT sessions some people are preferring to continue with their sessions via either WhatsApp or Zoom. I have been both surprised an pleased at how well the sessions are going over video. Although, it will never be the same as in person, we are able to work out to a high level, whilst maintaining some contact with each other and enjoying ourselves. I've found the sessions are really helping me through this pandemic as it's a regular meet, catch up and work out all at the same time! 
-Many people are looking for ideas and motivation during this pandemic and I think that a weekly session really does help physically, but also mentally. We are being forced to be less social so some contact via a video is a real pick me up and I can get your heart raised whilst sculpting your muscles, all at the same time!
+Although, at the moment, we are able to meet outside for PT sessions some people are preferring to continue with their sessions via either WhatsApp or Zoom. I have been both surprised and pleased at how well the sessions are going over video. Although, it will never be the same as in person, we are able to work out to a high level, whilst maintaining some contact with each other and enjoying ourselves. I've found the sessions are really helping me through this pandemic as it's a regular meet, catch up and work out all at the same time! 
+Many people are looking for ideas and motivation during this time and I think that a weekly session not only helps physically, but also mentally. We are being forced to be less social so some contact via a video is a real pick me up and I can get your heart raised whilst sculpting your muscles, all at the same time!
 
 If you are interested in some personal training over video then please get in contact.
 
