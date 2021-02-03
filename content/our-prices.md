@@ -46,7 +46,7 @@ menu:
 
 <!--Added by Spud 19/04/2020 Including Video PT prices-->
 
-## Online LIVE Personal Training
+## Online LIVE Personal Training/Relaxing & stretching session
 
 <div class="container">
     <div class="card-deck mb-3 text-center">
