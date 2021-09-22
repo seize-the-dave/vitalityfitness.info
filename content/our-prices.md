@@ -140,7 +140,7 @@ menu:
           </div>
         </div>
       </div>
-    </div>-->
+    </div>
 
 <!--Added by Spud block booking for LIVE online PT-->
 ## Block Booking Prices
