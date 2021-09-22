@@ -96,7 +96,7 @@ menu:
 </div>
 <!--End of Spud's additions for LIVE online PT-->
 
-<!--## Personal Training
+## Personal Training
 
 <div class="container">
     <div class="card-deck mb-3 text-center">
@@ -105,7 +105,7 @@ menu:
             <h4 class="my-0 font-weight-normal">Solo</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£30</h1>
+            <h1 class="card-title pricing-card-title">£35</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>Most popular</li>
             </ul>
@@ -117,7 +117,7 @@ menu:
             <h4 class="my-0 font-weight-normal">2 People</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£70</h1>
+            <h1 class="card-title pricing-card-title">£60</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>£35 per person</li>
             </ul>
@@ -129,7 +129,7 @@ menu:
             <h4 class="my-0 font-weight-normal">3 People</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£120</h1>
+            <h1 class="card-title pricing-card-title">£85</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>£40 per person</li>
             </ul>
