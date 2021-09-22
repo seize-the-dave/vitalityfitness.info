@@ -153,7 +153,7 @@ If you would like to block book personal training sessions then the discounted p
             <div class="card-body">
                 <h1 class="card-title pricing-card-title">£116</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>£24 per session</li>
+                    <li>£29 per session</li>
                 </ul>
                 <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799641" role= "button"> Buy Now</a>
             </div>
@@ -163,9 +163,9 @@ If you would like to block book personal training sessions then the discounted p
                 <h4 class="my-0 font-weight-normal">8 Sessions</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£212</h1>
+                <h1 class="card-title pricing-card-title">£216</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>£23 per session</li>
+                    <li>£27 per session</li>
                 </ul>
                 <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
             </div>
@@ -187,7 +187,7 @@ If you would like to block book personal training sessions for 2 people:
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£192</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£16.50 each!</li>
+              <li>£24 each!</li>
             </ul>
            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=845385" role= "button"> Buy Now</a>
           </div>
@@ -199,7 +199,7 @@ If you would like to block book personal training sessions for 2 people:
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£304</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£15.50 each person!</li>
+              <li>£19 each person!</li>
             </ul>
             <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=845387" role= "button"> Buy Now</a>
           </div>
