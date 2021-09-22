@@ -119,7 +119,7 @@ menu:
           <div class="card-body">
             <h1 class="card-title pricing-card-title">£60</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£35 per person</li>
+              <li>£30 per person</li>
             </ul>
             <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
           </div>
@@ -129,9 +129,9 @@ menu:
             <h4 class="my-0 font-weight-normal">3 People</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£85</h1>
+            <h1 class="card-title pricing-card-title">£84</h1>
             <ul class="list-unstyled mt-3 mb-4">
-              <li>£40 per person</li>
+              <li>£28 per person</li>
             </ul>
             <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
           </div>
