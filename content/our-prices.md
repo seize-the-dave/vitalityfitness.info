@@ -110,12 +110,12 @@ menu:
               <li>Most popular</li>
             </ul>
               <a class="btn btn-lg btn-block btn-info"
-                href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799648"
-                role="button"> Buy Now</a>
-              
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
+                href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=1134779"
+                role="button"> Buy Now</a>  
+              <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548607">Buy Gift Voucher</a>
           </div>
         </div>
+    </div>
     </div>
         <div class="card mb-4 box-shadow">
           <div class="card-header">
