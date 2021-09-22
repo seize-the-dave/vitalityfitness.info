@@ -151,7 +151,7 @@ If you would like to block book personal training sessions then the discounted p
                 <h4 class="my-0 font-weight-normal">4 Sessions</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£96</h1>
+                <h1 class="card-title pricing-card-title">£116</h1>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>£24 per session</li>
                 </ul>
@@ -163,7 +163,7 @@ If you would like to block book personal training sessions then the discounted p
                 <h4 class="my-0 font-weight-normal">8 Sessions</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£184</h1>
+                <h1 class="card-title pricing-card-title">£212</h1>
                 <ul class="list-unstyled mt-3 mb-4">
                     <li>£23 per session</li>
                 </ul>
@@ -185,7 +185,7 @@ If you would like to block book personal training sessions for 2 people:
             <h4 class="my-0 font-weight-normal">4 Sessions for two people</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£132</h1>
+            <h1 class="card-title pricing-card-title">£192</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>£16.50 each!</li>
             </ul>
@@ -197,7 +197,7 @@ If you would like to block book personal training sessions for 2 people:
             <h4 class="my-0 font-weight-normal">8 Sessions for two people</h4>
           </div>
           <div class="card-body">
-            <h1 class="card-title pricing-card-title">£248</h1>
+            <h1 class="card-title pricing-card-title">£304</h1>
             <ul class="list-unstyled mt-3 mb-4">
               <li>£15.50 each person!</li>
             </ul>
