@@ -123,7 +123,7 @@ menu:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£30 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548609">Buy Now</a>
           </div>
         </div>
         <div class="card mb-4 box-shadow">
@@ -135,7 +135,7 @@ menu:
             <ul class="list-unstyled mt-3 mb-4">
               <li>£28 per person</li>
             </ul>
-            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Gift Voucher</a>
+            <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=548610">Buy Now</a>
           </div>
         </div>
       </div>
