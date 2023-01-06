@@ -20,7 +20,7 @@ draft: false
     </div>
     <div class="col-lg-6">
     <h4>Experienced</h4>
-    <p>Donna has over 16 years experience as a personal trainer. Video PT sessions with current clients have been very successful!</p>
+    <p>Donna has over 19 years experience as a personal trainer. Video PT sessions with current clients have been very successful!</p>
     <h4>Friendly</h4>
     <p>Donna is always warm and welcoming, so you can guarantee a caring experience.</p>
     </div>
