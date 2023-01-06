@@ -94,7 +94,7 @@ menu:
         </div>
     </div>
 </div>
-<!--End of Spud's additions for LIVE online PT-->-->
+<!--End of Spud's additions for LIVE online PT-->
 ## Personal Training
 
 <div class="container">
@@ -206,7 +206,8 @@ If you would like to block book personal training sessions for 2 people:
             <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=845387" role= "button"> Buy Now</a>
           </div>
         </div>
-<!--End Spud additions for block bookings for 1:2 for live online PT-->     -->
+<!--End Spud additions for block bookings for 1:2 for live online PT-->     
+      -->
 
             
 <!--## Block Booking Prices for 1:2
