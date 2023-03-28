@@ -165,9 +165,9 @@ If you would like to block book personal training sessions then the discounted p
                 <h4 class="my-0 font-weight-normal">8 Sessions</h4>
             </div>
             <div class="card-body">
-                <h1 class="card-title pricing-card-title">£236</h1>
+                <h1 class="card-title pricing-card-title">£216</h1>
                 <ul class="list-unstyled mt-3 mb-4">
-                    <li>£29.50 per session</li>
+                    <li>£27 per session</li>
                 </ul>
                 <a class="btn btn-lg btn-block btn-info" href="https://app.acuityscheduling.com/catalog.php?owner=14767332&action=addCart&clear=1&id=799642" role= "button"> Buy Now</a>
             </div>
