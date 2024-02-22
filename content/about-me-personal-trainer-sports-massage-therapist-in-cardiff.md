@@ -24,7 +24,7 @@ I am a fully qualified Level 3 Personal Trainer having previously completed Leve
 
 I am very happily married and am lucky to have two daughters  who have inspired me to gain a qualification in teaching exercise to children as I find it even more rewarding working with children (which I did not think was possible!)
 
-Although life is very different since having children I still try to train as regularly as possible and keep in shape. Of course, this is a challenge sometimes, but I always do my best. That is all any one of us can do.
+Although life is very different since having children I still try to train as regularly as possible and keep in shape. Of course, this is a challenge sometimes, but I always do my best.
 
 I am also qualified to work with pre- and post-natal women. I loved being pregnant both times and I honestly think this was partly down to exercising regularly and staying healthy. After an emergency C section with my first daughter I was keen for a natural birth for my second baby. I learnt techniques and positions that help, up to and during, labour and it is a real passion for me to be able to pass on this information and allow women to believe in their bodies through safe positions and exercises. I believed in my own body and had a most wonderful & beautiful water birth with my second daughter.
 
