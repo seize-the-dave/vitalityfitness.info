@@ -7,7 +7,7 @@ draft: false
 <div class="jumbotron">
     <h1 class="display-3">Personal Training</h1>
     <p class="lead">Welcome</p>
-    <p class="lead">All personal training sessions take place in the comfort of your own home, online or outside with nature.</p>
+    <p class="lead">All personal training sessions take place in the comfort of your own home, online or outside.</p>
     <p><a class="btn btn-info btn-lg" href="/covid-19/" role="button">Learn More</a></p>
 </div>
 
